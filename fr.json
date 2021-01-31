@@ -40,11 +40,17 @@
                 "misc" : "Autres"
             },
             "rarity" : {
+                "frozen" : "Légende Glacière",
+                "lava" : "Lave",
                 "legendary" : "Légendaire",
                 "dark" : "Série Sombre",
-                "marvel" : "Série Marvel",
+                "marvel" : "Marvel",
                 "dc" : "Série DC",
+                "star_wars" : "Star Wars",
+                "gaming_legends" : "Légende du Gaming",
                 "icon_series" : "Série Icônes",
+                "slurp" : "Légende du Bleuvage",
+                "shadow" : "Série Ombre",
                 "epic" : "Épique",
                 "rare" : "Rare",
                 "uncommon" : "Atypique",
